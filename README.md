@@ -36,6 +36,7 @@ Make your changes and test thoroughly.
 Commit your changes: git commit -m "Description of your changes".
 Push to the branch: git push origin feature-name.
 Create a pull request explaining your changes.
+## Screenshots
 ![calculator](https://user-images.githubusercontent.com/78369568/229366200-c7b875cb-b09b-4c76-a742-c1611dbde77d.png)
 ![underweight](https://user-images.githubusercontent.com/78369568/229366528-9b5df5ff-b0d6-4b21-84b2-e7cb518e2265.png)
 
