@@ -23,7 +23,7 @@ The app will display your calculated BMI and provide an interpretation of your B
 The app doesn't use any external dependencies beyond the Android SDK.
 
 # Development
-Structure
+**Structure**
 app/src/main/java/com/example/bmicalculator/: Java code for the app.
 app/src/main/res/layout/: XML layout files.
 app/src/main/res/values/: XML resource files (strings, colors, etc.).
